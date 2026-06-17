@@ -1,4 +1,4 @@
- STM32G4 Dual Modbus RTU Slaves with Software Half-Duplex
+# STM32G4 Dual Modbus RTU Slaves with Software Half-Duplex
 
 Dự án mẫu triển khai **2 Modbus RTU Slave độc lập** chạy đồng thời trên vi điều khiển **STM32G474RET6U** thông qua 2 cổng bộ USART phần cứng (USART1 và USART3), kết hợp giải pháp **Software Half-Duplex (chuyển đổi chân TX động)** giúp ghép chung bus TTL truyền nhận về 1 mạch chuyển đổi USB-to-UART (YP-05) mà không cần thêm linh kiện bên ngoài.
 
