@@ -1,0 +1,22 @@
+# C/C++ build outputs
+build/
+*.o
+*.obj
+*.elf
+*.bin
+*.hex
+*.map
+.cache/
+
+# Python
+__pycache__/
+*.pyc
+
+# IDEs
+.vscode/
+.idea/
+*.launch
+.metadata/
+
+# Other tools
+ModbusTools/

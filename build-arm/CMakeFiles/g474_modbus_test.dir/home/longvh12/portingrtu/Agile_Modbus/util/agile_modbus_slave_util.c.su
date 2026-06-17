@@ -1,0 +1,6 @@
+/home/longvh12/portingrtu/Agile_Modbus/util/agile_modbus_slave_util.c:40:45:get_map_by_addr	32	static
+/home/longvh12/portingrtu/Agile_Modbus/util/agile_modbus_slave_util.c:65:12:read_registers	344	static
+/home/longvh12/portingrtu/Agile_Modbus/util/agile_modbus_slave_util.c:152:12:write_registers	368	static
+/home/longvh12/portingrtu/Agile_Modbus/util/agile_modbus_slave_util.c:259:12:mask_write_register	328	static
+/home/longvh12/portingrtu/Agile_Modbus/util/agile_modbus_slave_util.c:310:12:write_read_registers	384	static
+/home/longvh12/portingrtu/Agile_Modbus/util/agile_modbus_slave_util.c:412:5:agile_modbus_slave_util_callback	40	static

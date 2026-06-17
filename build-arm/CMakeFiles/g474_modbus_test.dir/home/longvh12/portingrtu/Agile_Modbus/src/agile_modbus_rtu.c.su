@@ -1,0 +1,9 @@
+/home/longvh12/portingrtu/Agile_Modbus/src/agile_modbus_rtu.c:103:17:agile_modbus_rtu_crc16	24	static
+/home/longvh12/portingrtu/Agile_Modbus/src/agile_modbus_rtu.c:128:12:agile_modbus_rtu_set_slave	16	static
+/home/longvh12/portingrtu/Agile_Modbus/src/agile_modbus_rtu.c:146:12:agile_modbus_rtu_build_request_basis	24	static
+/home/longvh12/portingrtu/Agile_Modbus/src/agile_modbus_rtu.c:169:12:agile_modbus_rtu_build_response_basis	16	static
+/home/longvh12/portingrtu/Agile_Modbus/src/agile_modbus_rtu.c:184:12:agile_modbus_rtu_prepare_response_tid	16	static
+/home/longvh12/portingrtu/Agile_Modbus/src/agile_modbus_rtu.c:201:12:agile_modbus_rtu_send_msg_pre	24	static
+/home/longvh12/portingrtu/Agile_Modbus/src/agile_modbus_rtu.c:220:12:agile_modbus_rtu_check_integrity	32	static
+/home/longvh12/portingrtu/Agile_Modbus/src/agile_modbus_rtu.c:244:12:agile_modbus_rtu_pre_check_confirmation	24	static
+/home/longvh12/portingrtu/Agile_Modbus/src/agile_modbus_rtu.c:302:5:agile_modbus_rtu_init	32	static

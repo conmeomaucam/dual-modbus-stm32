@@ -1,0 +1,9 @@
+/home/longvh12/portingrtu/g474_modbus_test/Core/Src/modbus_adapter_stm32g4.c:33:12:read_holding_cb	24	static
+/home/longvh12/portingrtu/g474_modbus_test/Core/Src/modbus_adapter_stm32g4.c:43:12:write_holding_cb	40	static
+/home/longvh12/portingrtu/g474_modbus_test/Core/Src/modbus_adapter_stm32g4.c:63:12:read_coils_cb	24	static
+/home/longvh12/portingrtu/g474_modbus_test/Core/Src/modbus_adapter_stm32g4.c:73:12:write_coils_cb	40	static
+/home/longvh12/portingrtu/g474_modbus_test/Core/Src/modbus_adapter_stm32g4.c:93:12:read_discrete_inputs_cb	24	static
+/home/longvh12/portingrtu/g474_modbus_test/Core/Src/modbus_adapter_stm32g4.c:103:12:read_input_registers_cb	24	static
+/home/longvh12/portingrtu/g474_modbus_test/Core/Src/modbus_adapter_stm32g4.c:133:12:addr_check	40	static
+/home/longvh12/portingrtu/g474_modbus_test/Core/Src/modbus_adapter_stm32g4.c:193:6:Modbus_Init	8	static
+/home/longvh12/portingrtu/g474_modbus_test/Core/Src/modbus_adapter_stm32g4.c:208:6:Modbus_Process	32	static
